@@ -2,6 +2,7 @@
   "name": "glint-api",
   "private": true,
   "version": "1.0.0",
+  "type": "module",
   "dependencies": {
     "@google/genai": "^1.34.0"
   }
